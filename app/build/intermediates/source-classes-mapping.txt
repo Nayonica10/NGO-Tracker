@@ -1,0 +1,21 @@
+com/example/ngotrackermum/databinding/ActivityMapsBinding.java
+ com.example.ngotrackermum.databinding.ActivityMapsBinding
+com/example/ngotrackermum/databinding/ActivityMainBinding.java
+ com.example.ngotrackermum.databinding.ActivityMainBinding
+com/example/ngotrackermum/databinding/ActivityMain3Binding.java
+ com.example.ngotrackermum.databinding.ActivityMain3Binding
+com/example/ngotrackermum/MainActivity.java
+ com.example.ngotrackermum.MainActivity
+ com.example.ngotrackermum.MainActivity$1
+com/example/ngotrackermum/MapsActivity.java
+ com.example.ngotrackermum.MapsActivity
+com/example/ngotrackermum/MainActivity3.java
+ com.example.ngotrackermum.MainActivity3
+com/example/ngotrackermum/BuildConfig.java
+ com.example.ngotrackermum.BuildConfig
+com/example/ngotrackermum/MainActivity2.java
+ com.example.ngotrackermum.MainActivity2
+ com.example.ngotrackermum.MainActivity2$1
+ com.example.ngotrackermum.MainActivity2$2
+com/example/ngotrackermum/databinding/ActivityMain2Binding.java
+ com.example.ngotrackermum.databinding.ActivityMain2Binding
